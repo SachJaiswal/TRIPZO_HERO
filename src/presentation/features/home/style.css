@@ -1,0 +1,7 @@
+.home-feature-wrapper {
+  min-height: 100vh;
+  width: 100%;
+  background-color: var(--background, #fffdf5);
+  display: flex;
+  flex-direction: column;
+}
